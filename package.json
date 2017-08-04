@@ -1,8 +1,8 @@
 {
-  "name": "language-gfm",
+  "name": "language-notes3",
   "version": "0.90.0",
-  "description": "Syntax highlighting and snippets for GitHub Flavored Markdown (GFM).",
-  "repository": "https://github.com/atom/language-gfm",
+  "description": "Syntax highlighting and snippets for Notes3 files, based on language-gfm.",
+  "repository": "https://github.com/mwshinn/language-notes3",
   "license": "MIT",
   "engines": {
     "atom": "*"
